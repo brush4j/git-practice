@@ -19,4 +19,3 @@ feature12
 master7..
 feature13
 feature14
-master8
