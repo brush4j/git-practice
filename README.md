@@ -11,25 +11,14 @@ feature9
 feature10
 feature11
 feature12
-
-
-
-
-
 master7..
 feature13
 feature14
 feature15
 feature16
-
 git shell feature
-
-
 new feature test
-
 git feature shell3
-
 git shell master
 new master test
-
 git master shell3
