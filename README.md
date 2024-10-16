@@ -22,4 +22,6 @@ feature14
 feature15
 feature16
 
+git shell feature
+
 git shell master
