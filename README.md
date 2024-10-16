@@ -25,3 +25,4 @@ feature16
 git shell feature
 
 git shell master
+new master test
