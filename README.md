@@ -24,5 +24,8 @@ feature16
 
 git shell feature
 
+
+new feature test
+
 git shell master
 new master test
