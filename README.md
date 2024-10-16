@@ -27,6 +27,8 @@ git shell feature
 
 new feature test
 
+git feature shell3
+
 git shell master
 new master test
 
