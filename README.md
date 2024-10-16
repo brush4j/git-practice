@@ -26,3 +26,5 @@ git shell feature
 
 
 new feature test
+
+git feature shell3
