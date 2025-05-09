@@ -1,1 +1,1 @@
-commit,add,-m
+commit
