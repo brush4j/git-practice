@@ -1,1 +1,1 @@
-commit1111amend,add
+commit,add,-m
