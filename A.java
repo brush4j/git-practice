@@ -8,5 +8,5 @@
  * @version: 1.0
  */
 public class A {
-    private String str = "main master";
+    private String str = "all apply main";
 }
