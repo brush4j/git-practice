@@ -8,5 +8,5 @@
  * @version: 1.0
  */
 public class A {
-    private String str = "main1";
+    private String str_main = "main";
 }
