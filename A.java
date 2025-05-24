@@ -9,8 +9,8 @@
  */
 public class A {
     private String str = "main commit";
-    private String str1 = "main commit";
+    private String str1 = "main commit.";
     private String str2 = "main commit";
     private String str3 = "main commit";
-    private String str4 = "main commit";
+    private String str4 = "main commit.";
 }
