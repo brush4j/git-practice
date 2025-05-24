@@ -8,5 +8,7 @@
  * @version: 1.0
  */
 public class A {
-    private String str = "all apply main";
+    private String str = "main commit";
+    private String str1 = "main commit";
+    private String str2 = "main commit";
 }
