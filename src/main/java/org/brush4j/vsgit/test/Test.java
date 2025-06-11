@@ -12,6 +12,6 @@ package org.brush4j.vsgit.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Hello World! main");
+        System.out.println("Hello World! main2");
     }
 }
