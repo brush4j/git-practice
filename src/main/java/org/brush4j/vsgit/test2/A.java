@@ -11,6 +11,6 @@ package org.brush4j.vsgit.test2;
  */
 public class A {
     public static void main(String[] args) {
-        System.out.println("A");
+        System.out.println("conflict-01");
     }
 }
