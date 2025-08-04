@@ -27,6 +27,4 @@ git master shell3
 commit1
 commit2
 
-vs-gitlog
-
-vs-gitlog
+main
