@@ -30,3 +30,5 @@ commit2
 main
 
 main2
+
+vs-gitlog
