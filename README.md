@@ -32,3 +32,5 @@ main
 main2
 
 vs-gitlog
+
+vs-gitlog
